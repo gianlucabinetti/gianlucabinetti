@@ -25,10 +25,10 @@ my skills in cybersecurity defense and look forward to applying my knowledge to 
 digital environments.
 
 
-## 📈 **Commit Activity**
+## 📊 **Contribution Graph**
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gianlucabinetti&theme=github-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true)
+![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gianlucabinetti&theme=github_dark&bg_color=0d1117)
 
 </div>
