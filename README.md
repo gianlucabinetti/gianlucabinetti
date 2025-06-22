@@ -14,8 +14,6 @@
 
 ## 🔒 **About Me**
 
-```bash
-$ cat about_me.txt
 
 I'm Gianluca Binetti, a Computer Science student at Florida Atlantic University pursuing a minor in 
 Artificial Intelligence. My focus is on cybersecurity, specifically in blue team roles, where I aim 
