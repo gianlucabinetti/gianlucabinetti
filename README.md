@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:GianlucaBinetti2001@gmail.com)
 
 </div>
-
+ 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
 ## 🔒 **About Me**
