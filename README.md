@@ -25,4 +25,10 @@ my skills in cybersecurity defense and look forward to applying my knowledge to 
 digital environments.
 
 
+## 🐍 **Contribution Snake**
+
+<div align="center">
+
 ![Snake animation](https://raw.githubusercontent.com/gianlucabinetti/gianlucabinetti/output/github-snake-dark.svg)
+
+</div>
