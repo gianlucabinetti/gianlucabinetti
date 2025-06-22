@@ -25,10 +25,10 @@ my skills in cybersecurity defense and look forward to applying my knowledge to 
 digital environments.
 
 
-## 🐍 **Contribution Snake**
+## 📈 **Commit Activity**
 
 <div align="center">
 
-![Snake animation](https://github.com/gianlucabinetti/gianlucabinetti/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gianlucabinetti&theme=github-dark&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&hide_border=true)
 
 </div>
