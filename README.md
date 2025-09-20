@@ -23,12 +23,3 @@ DDoS mitigation. I'm also delving into Python and Java, as I'm passionate about 
 and software development, with a primary focus on securing systems. I'm actively working on enhancing 
 my skills in cybersecurity defense and look forward to applying my knowledge to protect and secure 
 digital environments.
-
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gianlucabinetti/gianlucabinetti/output/github-snake-dark.svg)
-
-</div>
