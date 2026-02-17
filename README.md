@@ -1,6 +1,6 @@
 <div align="center" style="background-color: #0d1117; padding: 20px;">
 
-# 🛡️ Gianluca Binetti
+#  Gianluca Binetti
 ### AI Engineer | Cybersecurity Specialist | Systems Architect 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Cybersecurity+Systems;Securing+the+Future+of+Digital+Defense" alt="Typing SVG" />
@@ -12,7 +12,7 @@
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
-## 🔒 **About Me**
+##  **About Me**
 
 
 I'm Gianluca Binetti, a Computer Science student at Florida Atlantic University pursuing a minor in 
