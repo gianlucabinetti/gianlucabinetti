@@ -15,11 +15,4 @@
 ##  **About Me**
 
 
-I'm Gianluca Binetti, a Computer Science student at Florida Atlantic University pursuing a minor in 
-Artificial Intelligence. My focus is on cybersecurity, specifically in blue team roles, where I aim 
-to develop advanced skills in threat detection and mitigation. I have hands-on experience with tools 
-like Kali Linux, Suricata, and OpenVAS, and I've implemented projects in intrusion detection and 
-DDoS mitigation. I'm also delving into Python and Java, as I'm passionate about systems engineering 
-and software development, with a primary focus on securing systems. I'm actively working on enhancing 
-my skills in cybersecurity defense and look forward to applying my knowledge to protect and secure 
-digital environments.
+I'm Gianluca Binetti, a Computer Science student at Florida Atlantic University (graduating December 2026) with a minor in Artificial Intelligence & Cybersecurity. I work at the intersection of AI and security — building detection systems, security tooling, and conducting independent research.I'm the author of three security research papers on browser-deployed phishing detection, with work submitted to IEEE Transactions on Information Forensics & Security, NDSS, and USENIX Security. I built and deployed Phishy, a production Chrome extension running on-device ML phishing detection, and mlscan, a Rust-based AI/ML supply chain security scanner that detects malicious payloads in model files.My background spans both offensive and defensive security: I've independently discovered and reported vulnerabilities through HackerOne bug bounty programs, including a high-severity authentication infrastructure exposure and a critical indirect prompt injection finding. I run a self-hosted Proxmox homelab for ML training and red-team labs, and hold CompTIA Security+.I'm focused on AI security, threat detection, and security research — building tools that protect systems in an increasingly AI-driven world.
